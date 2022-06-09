@@ -6,6 +6,12 @@ plugins {
 }
 
 android {
+
+     //...
+    lintOptions {
+        abortOnError false
+    }
+    
     compileSdk 31
 
     defaultConfig {
