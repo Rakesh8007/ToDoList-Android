@@ -1,4 +1,4 @@
-apply plugin: 'com.google.firebase.appdistribution'
+// apply plugin: 'com.google.firebase.appdistribution'
 
 plugins {
     id 'com.android.application'
