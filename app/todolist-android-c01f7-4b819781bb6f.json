@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "todolist-android-c01f7",
+  "private_key_id": "4b819781bb6f1a6d0d76cf984902aef6a2281d52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAWGWxOyUIkGV2\ngn9LY1L/HuOP9HMkkSBMmyVIRxMCH4Iv64NAjuiLiLfgAUf1sHhKTRxGJ/tvywl2\n2XFhC6VVUakAiagi3CM5UcXgD8XhKJvvCDVXKyLpxMonroVSQLFLJxs9Ou3DJb4+\nYyc4iKdezbW/7UtVuvxQ0CkStWhiypSq2BZDOKZtPRkYmXP5266C5pGJFrHv0Ekn\nRtXEVNMgvNDKmQTTpojo1sJqDaLVIRCHSYvodNHGosaIxa1ga3hkoNmP3PLX+gMB\nfMyIdJZZjoG7y8TkJ2zqm7tVSUBT+c6ekM0B79okSvMNC5NTl70mapzCCStG/Ekb\nulv36gJNAgMBAAECggEAD6zUjXBCvnMtavj2a0bQVigRXGNhToGrlm/5W+3Q49Yn\nW6+PjioR/lcZbGkQ+889H7RaNsceM62MsKccA+WOpzNFDjJpuvziO6heniSNmDch\nQsZnjxpImYZXAYtfOZq56CRAe8m1joxg9+rINjsAGtbcYOReL0HSZg/vck3JkJgJ\n2XpWt91ynAKDzTYT0xxAJ/jH4g7KvK7Ug3qaxK0rE0wuApfTWbDGQEJEwnanYrkr\nJIEwA2C4TrQaUCmlyg3i2HB5p3AVqpyhQb8xICWg5/0eekbknqxGL5LTd6oX84+d\nLvJxFM9fj/ug238auKYppGGgW4pMGm/E+v2gcJ57sQKBgQD9g2vnc1YfA81Cu6qy\n7hqdXmbSrveYYuaMMC0JKhcWdvIx7VfyzsAvfd/XWnyx1Bwe2TyPk0NXwyrE5tug\nnf/YJUCI3y7fpNps6YMYLhLZHv9dejl1Bg030OmHu8SJGQ7Wf/3ZYvt3kJNoziAe\ndB43c6rRs0tPxSzpZtKolUzIvQKBgQDCO2GUnQ+peTVemjovY1R9EghEMLCjgvCj\njvuvqYO1mlllELudZ3g7kAv+z0D3ZI4gn/R1rl0AeFS3O8gHTTDQfML1XTsubXRH\nuhyAS3iGM4xDaa9Io4G8KN61U+Lxty+esAqLUzuDmNMUnXOAKiuJAOCRLxJ9f10X\novs+iBSg0QKBgFYfZ3DhhchTik+5YWwX54K+pz+7oPFr59aIJ0SNv/opvm2nq9EY\n28FGidynKOVgoYz5T9GWvbH643Sw2Lvf8SKExT+6Ujo3ztxhF+AHBvArz6T5+LsA\nq0zi8/LgnwvUL24/XQWU0sjznKBmJhMyb3F3IfjLaDJZUcCY5cfPsJ4hAoGAVr9a\np5s2IYTG90d+cSe11l41Xu84FO8oNoRnmF7nOjaDcoX0pSpPIpsFIHrEEznP2HZY\nIi8Lzmfvvh5vCgPJp3PxRtCq2+N6qYZPsGUEoTtoi7sp1BFiofzG6sladIZSOFd7\nfhpgXDfnHi/sI/OxmfDQW0dgxLgbhbD+8UCppeECgYBqvCUocAcal4hCQvLDhiKI\nig/h4UscEAuGna8TXIuhEXktbN7KnlPQ+N3A/2WEyatyr81uFIxTw8T9lVx/azA6\nV3FaaMXbPRuevKbsicT4FS6pBrUkD9Et1d/V7OYD4bJ9txq1lWUj2fOuazUqQ+Nk\nIAfup+L95uiR6ZinvCFALg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ezjobs-android-code-acc@todolist-android-c01f7.iam.gserviceaccount.com",
+  "client_id": "101507180782049553631",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ezjobs-android-code-acc%40todolist-android-c01f7.iam.gserviceaccount.com"
+}
