@@ -33,8 +33,15 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        firebaseAppDistribution {
+                           releaseNotes = "Test Notes"
+                           appId ="1:797796558716:android:25799a72389df9edfb26f9"
+                           serviceCredentialsFile = "/var/lib/jenkins/workspace/ToDoList-Android Freestyle project/app/todolist-android-c01f7-4b819781bb6f.json"
+                           groups="EzJobs_Tester"
+        
+                           minifyEnabled false
+                           proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
         }
     }
     compileOptions {
